@@ -16,15 +16,15 @@
 <h2>👨‍💻 Technical Projects:</h2>
 
 - <b>Python</b>
-  - [Project Name](https://github.com/jasperadavis/)
+  - [Project Coming Soon](https://github.com/jasperadavis/)
 - <b>SQL</b>
-  - [Project Name](https://github.com/jasperadavis/)
+  - [Project Coming Soon](https://github.com/jasperadavis/)
 - <b>C</b>
-  - [Project Name](https://github.com/jasperadavis/)
+  - [Project Coming Soon](https://github.com/jasperadavis/)
 - <b>HTML/CSS</b>
-  - [Project Name](https://github.com/jasperadavis/)
+  - [Project Coming Soon](https://github.com/jasperadavis/)
 - <b>BASH</b>
-  - [Project Name](https://github.com/jasperadavis/)
+  - [Project Coming Soon](https://github.com/jasperadavis/)
 
 <h2>🌱 Lifelong Learning: </h2>
 
