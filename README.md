@@ -34,6 +34,7 @@
 
 <h3>Completed:</h3>
 - <a href="https://www.credly.com/badges/11d9708a-eb32-48bb-b0e0-28b72ca20620/linked_in_profile">Google Professional Certificate</a> in Cybersecurity - Google (2023) <br>
+- <a href="https://coursera.org/share/d1f9fb813a30add97bf13e150dfb8170">COVID-19 Contact Tracing</a> - Johns Hopkins University (2020) <br>
 - <a href="https://graduation.udacity.com/confirm/GMHMNWG6">Nanodegree</a>, Programming for Data Science with Python - Udacity (2020) <br>
 - <a href="https://graduation.udacity.com/confirm/46RGGRCL">Nanodegree</a>, Business Analytics - Udacity (2020) <br>
 - <a href="https://www.credly.com/badges/d6bac562-ad28-4995-b2c3-08133fbda910">e-Certificate</a>,  Equity and Inclusion (2018) <br>
