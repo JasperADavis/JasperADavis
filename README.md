@@ -29,6 +29,7 @@
 <h2>🌱 Lifelong Learning: </h2>
 
 <h3>Ongoing:</h3>
+- <a href="https://cs50.harvard.edu/web/2020/">CS50W</a> - Web Programming with Python and JavaScript - Harvard University <br>
 - <a href="https://cs50.harvard.edu/ai/2023/">CS50AI</a> - Introduction to Artificial Intelligence with Python - Harvard University <br>
 - <a href="https://cs50.harvard.edu/x/2023/">CS50x</a> - Introduction to Computer Science - Harvard University | complete: Weeks 0 - 9 <br>
 - <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> - Dr. Angela Yu & London App Brewery via Udemy | complete: Projects 1 - 81 <br>
