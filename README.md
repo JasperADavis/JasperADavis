@@ -35,7 +35,7 @@
 - <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> - Dr. Angela Yu & London App Brewery via Udemy | complete: Projects 1 - 81 <br>
 
 <h3>Completed:</h3>
-- <a href="https://cs50.harvard.edu/python/2022/">CS50P</a> - Introduction to Programming with Python - Harvard University (2023) <br>
+- <a href="https://certificates.cs50.io/a0701292-6229-491b-89a7-39bd563faacd.png?size=letter">CS50P</a> - Introduction to Programming with Python - Harvard University (2023) <br>
 - <a href="https://www.credly.com/badges/11d9708a-eb32-48bb-b0e0-28b72ca20620/linked_in_profile">Google Professional Certificate</a> in Cybersecurity - Google (2023) <br>
 - <a href="https://coursera.org/share/d1f9fb813a30add97bf13e150dfb8170">COVID-19 Contact Tracing</a> - Johns Hopkins University (2020) <br>
 - <a href="https://graduation.udacity.com/confirm/GMHMNWG6">Nanodegree</a>, Programming for Data Science with Python - Udacity (2020) <br>
