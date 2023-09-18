@@ -47,7 +47,11 @@
 - NCP Disaster Relief Network | Executive Leadership Team & Disaster Response Team Leader <br>
 - Federal Emergency Management Agency (FEMA) | Disaster Response Team Leader <br>
 - Special Olympics Florida | Program Partnership Volunteer <br>
+- Lifeline to Success | Leadership Exchange Program Leader <br>
 - Frameworks of Tampa Bay | Bonner Leadership Fellow <br>
+- National Park Service: Grand Canyon National Park | Wildland Fire Management Volunteer <br>
+- Peruvian Hearts | International Alternative Breaks Team Leader <br>
+- PEACE Volunteer Center | Co-President & International Alternative Breaks Coordinator <br>
 - Teen Advisors | New Program Launch Coordinator <br>
 
 <h2>🤳 Connect with me:</h2>
