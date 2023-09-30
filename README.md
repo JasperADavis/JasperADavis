@@ -32,17 +32,6 @@
 - <a href="https://www.credly.com/badges/d6bac562-ad28-4995-b2c3-08133fbda910">e-Certificate</a>,  Equity and Inclusion (2018) <br>
 - <a href="https://www.credly.com/badges/5360d41f-3fe3-42c3-9cf2-a2a8918b3d71/linked_in_profile">e-Certificate</a>,  Nonprofit Trends and Innovation (2017) <br>
 
-<h2>⛑️ Service Work: </h2>
-- NCP Disaster Relief Network | Executive Leadership Team & Disaster Response Team Leader <br>
-- Federal Emergency Management Agency (FEMA) | Disaster Response Team Leader <br>
-- Special Olympics Florida | Program Partnership Volunteer <br>
-- Lifeline to Success | Leadership Exchange Program Leader <br>
-- Frameworks of Tampa Bay | Bonner Leadership Fellow <br>
-- National Park Service: Grand Canyon National Park | Wildland Fire Management Volunteer <br>
-- Peruvian Hearts | International Alternative Breaks Team Leader <br>
-- PEACE Volunteer Center | Co-President & International Alternative Breaks Coordinator <br>
-- Teen Advisors | New Program Launch Coordinator <br>
-
 <h2>👨‍💻 Highlighted Technical Projects:</h2>
 
 - <b>Full Stack Web Development</b>
@@ -72,6 +61,17 @@
   - <a href='https://github.com/JasperADavis/speller-text-spell-checker'>Spell Checker</a>
 
 <h4>Additional Information on Projects Available <a href="https://github.com/JasperADavis/tech-portfolio/">Here</a></h4>
+
+<h2>⛑️ Service Work: </h2>
+- NCP Disaster Relief Network | Executive Leadership Team & Disaster Response Team Leader <br>
+- Federal Emergency Management Agency (FEMA) | Disaster Response Team Leader <br>
+- Special Olympics Florida | Program Partnership Volunteer <br>
+- Lifeline to Success | Leadership Exchange Program Leader <br>
+- Frameworks of Tampa Bay | Bonner Leadership Fellow <br>
+- National Park Service: Grand Canyon National Park | Wildland Fire Management Volunteer <br>
+- Peruvian Hearts | International Alternative Breaks Team Leader <br>
+- PEACE Volunteer Center | Co-President & International Alternative Breaks Coordinator <br>
+- Teen Advisors | New Program Launch Coordinator <br>
 
 <h2>🤳 Connect with me:</h2>
 
