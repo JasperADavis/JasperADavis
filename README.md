@@ -13,7 +13,10 @@
 - 💰 <b>Bachelor of Science Business Administration, Accounting</b> - Western Governors University <br>
 - 💼 <b>Bachelor of Science, Management</b> - The University of Tampa <br>
 
+<details>
+<summary>
 <h2>🌱 Lifelong Learning: </h2>
+</summary>
 
 <h3>Ongoing:</h3>
 - <a href="https://cs50.harvard.edu/sql/">CS50SQL</a> - Introduction to Databases with SQL - Harvard University <br>
@@ -31,6 +34,7 @@
 - <a href="https://graduation.udacity.com/confirm/46RGGRCL">Nanodegree</a>, Business Analytics - Udacity (2020) <br>
 - <a href="https://www.credly.com/badges/d6bac562-ad28-4995-b2c3-08133fbda910">e-Certificate</a>,  Equity and Inclusion (2018) <br>
 - <a href="https://www.credly.com/badges/5360d41f-3fe3-42c3-9cf2-a2a8918b3d71/linked_in_profile">e-Certificate</a>,  Nonprofit Trends and Innovation (2017) <br>
+</details>
 
 <h2>👨‍💻 Highlighted Technical Projects:</h2>
 
