@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jasper! <br>
-<a href="https://www.linkedin.com/in/jasperdavis/">Project Manger</a>, <a href="https://github.com/jasperadavis#-technical-projects">Programmer</a>, <a href="https://github.com/JasperADavis/CybersecurityPortfolio/blob/main/README.md">Cybersecurity Professional</a>, <a href="https://www.instagram.com/j.m.jammin/">Musician</a>
+<a href="https://www.linkedin.com/in/jasperdavis/">Project Manger</a>, <a href="https://github.com/jasperadavis#-technical-projects">Programmer</a>, <a href="https://github.com/JasperADavis/CybersecurityPortfolio/">Cybersecurity Professional</a>, <a href="https://www.instagram.com/j.m.jammin/">Musician</a>
 </h1>
 
 <h2>🎓 Credentials:</h2>
