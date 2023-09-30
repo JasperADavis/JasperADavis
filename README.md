@@ -44,8 +44,8 @@
 <h2>👨‍💻 Highlighted Technical Projects:</h2>
 
 - <b>Full Stack Web Development</b>
-  - <a href='https://github.com/JasperADavis/money-bags-financial-management'>Money Bags</a>
-  - <a href='https://github.com/JasperADavis/jasper-blog-project'>Blog Capstone</a>
+  - <a href='https://github.com/JasperADavis/money-bags-financial-management'>Money Bags: Financial Management WebApp</a>
+  - <a href='https://github.com/JasperADavis/jasper-blog-project'>Blog Capstone Project</a>
 - <b>SQL</b>
   - <a href='https://github.com/JasperADavis/dvd-rental-db-advanced-sql-project'>DVD Rental Data Exploration</a>
   - <a href='https://github.com/JasperADavis/fiftyville-SQL-criminal-investigation'>Fiftyville Criminal Investigation with SQL</a>
@@ -53,21 +53,21 @@
   - <a href='https://github.com/JasperADavis/billboard-100-to-Spotify-playlist/tree/main'>Billboard 100 to Spotify Playlist</a>
   - <a href='https://github.com/JasperADavis/flight-deals-finder'>Flight Deals Finder</a>
 - <b>Data Exploration</b>
-  - <a href='https://github.com/JasperADavis/bikeshare-data-explorer'>Bikeshare Data Analysis</a>
+  - <a href='https://github.com/JasperADavis/bikeshare-data-explorer'>Bikeshare Data Explorer</a>
   - <a href='https://drive.google.com/file/d/1HeSQCWMSrNmeO33q7fMX_aI4Z5cc9r1s/view?usp=sharing'>Manipulating Images As Ndarrays</a>
   - <a href='https://drive.google.com/file/d/1I2nuecryF-mC1f2LmGgJOooIRhTagAkd/view?usp=sharing'>Nobel Prize Winner Analysis</a>
   - <a href='https://drive.google.com/file/d/1tQulW0MaJp-SWdPGwP6OgzNr7TXhzH3e/view?usp=sharing'>Multivariable Regression and Valuation Model for Boston Housing</a>
 - <b>Python Apps</b>
-  - <a href='https://github.com/JasperADavis/breathe-more-bubbles-diving-calculator'>Breathe More Bubbles</a>
-  - <a href='https://github.com/JasperADavis/DNA-sequence-matcher'>DNA</a>
+  - <a href='https://github.com/JasperADavis/breathe-more-bubbles-diving-calculator'>Breathe More Bubbles: Dive Planning Tool</a>
+  - <a href='https://github.com/JasperADavis/DNA-sequence-matcher'>DNA Sequence Matcher</a>
   - <a href='https://github.com/JasperADavis/trivia-quiz-app/'>Trivia Quiz App</a>
 - <b>Simulation</b>
   - <a href='https://github.com/JasperADavis/world-cup-tournament-simulator'>World Cup Simulator</a>
-  - <a href='https://github.com/JasperADavis/blood-type-inheritance-simulator'>Inheritance</a>
+  - <a href='https://github.com/JasperADavis/blood-type-inheritance-simulator'>Blood Type Inheritance Simulator</a>
 - <b>C Apps</b>
-  - <a href='https://github.com/JasperADavis/recover-image-recovery-tool'>Recover</a>
-  - <a href='https://github.com/JasperADavis/filter-image-filtering'>Filter</a>
-  - <a href='https://github.com/JasperADavis/speller-text-spell-checker'>Speller</a>
+  - <a href='https://github.com/JasperADavis/recover-image-recovery-tool'>Image Recovery Tool</a>
+  - <a href='https://github.com/JasperADavis/filter-image-filtering'>Apply Image Filters</a>
+  - <a href='https://github.com/JasperADavis/speller-text-spell-checker'>Spell Checker</a>
 
 <h4>Additional Information on Projects Available <a href="https://github.com/JasperADavis/tech-portfolio/">Here</a></h4>
 
