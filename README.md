@@ -16,7 +16,9 @@
 <h2>🌱 Lifelong Learning: </h2>
 
 <h3>Ongoing:</h3>
-- <a href="https://cs50.harvard.edu/web/">CS50W</a> - Web Programming with Python and JavaScript - Harvard University | complete: Week 0 <br>
+- <a href="https://cs50.harvard.edu/sql/">CS50SQL</a> - Introduction to Databases with SQL - Harvard University <br>
+- <a href="https://cs50.harvard.edu/cybersecurity/">CS50CS</a> - Introduction to Cybersecurity - Harvard University <br>
+- <a href="https://cs50.harvard.edu/web/">CS50W</a> - Web Programming with Python and JavaScript - Harvard University | complete: Weeks 0 - 2 <br>
 - <a href="https://cs50.harvard.edu/ai/">CS50AI</a> - Introduction to Artificial Intelligence with Python - Harvard University <br>
 - <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> - Dr. Angela Yu & London App Brewery via Udemy | complete: Projects 1 - 81 <br>
 
@@ -46,7 +48,7 @@
 - <b>Full Stack Web Development</b>
   - <a href='https://github.com/JasperADavis/money-bags-financial-management'>Money Bags: Financial Management WebApp</a>
   - <a href='https://github.com/JasperADavis/jasper-blog-project'>Blog Capstone Project</a>
-- <b>SQL</b>
+- <b>Databases & SQL</b>
   - <a href='https://github.com/JasperADavis/dvd-rental-db-advanced-sql-project'>DVD Rental Data Exploration</a>
   - <a href='https://github.com/JasperADavis/fiftyville-SQL-criminal-investigation'>Fiftyville Criminal Investigation with SQL</a>
 - <b>API Interaction & Web Scraping</b>
