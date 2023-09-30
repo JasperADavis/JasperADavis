@@ -43,102 +43,31 @@
 
 <h2>👨‍💻 Highlighted Technical Projects:</h2>
 
-<table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">Language</th>
-<th title="Field #2">Project Name</th>
-<th title="Field #3">Date Created</th>
-</tr></thead>
-<tbody><tr>
-<td>Python, SQLite, JavaScript, CSS, HTML</td>
-<td>Money Bags</td>
-<td>2023-09-01</td>
-</tr>
-<tr>
-<td>Python, PostgreSQL, JavaScript, CSS, HTML</td>
-<td>Blog Capstone</td>
-<td>2023-03-06</td>
-</tr>
-<tr>
-<td>SQL</td>
-<td>Fiftyville Criminal Investigation with SQL</td>
-<td>2023-08-21</td>
-</tr>
-<tr>
-<td>SQL</td>
-<td>DVD Rental Data Exploration</td>
-<td>2023-06-19</td>
-</tr>
-<tr>
-<td>Python</td>
-<td>Billboard 100 to Spotify Playlist</td>
-<td>2023-01-13</td>
-</tr>
-<tr>
-<td>Python</td>
-<td>Flight Deals Finder</td>
-<td>2023-01-10</td>
-</tr>
-<tr>
-<td>Python</td>
-<td>World Cup Simulator</td>
-<td>2023-08-19</td>
-</tr>
-<tr>
-<td>Python</td>
-<td>Bikeshare Data Analysis</td>
-<td>2020-06-17</td>
-</tr>
-<tr>
-<td>Python</td>
-<td>Manipulating Images As Ndarrays</td>
-<td>2023-03-20</td>
-</tr>
-<tr>
-<td>Python</td>
-<td>Nobel Prize Winner Analysis</td>
-<td>2023-03-29</td>
-</tr>
-<tr>
-<td>Python</td>
-<td>Multivariable Regression and Valuation Model for Boston Housing</td>
-<td>2023-03-31</td>
-</tr>
-<tr>
-<td>Python</td>
-<td>Breathe More Bubbles</td>
-<td>2023-09-13</td>
-</tr>
-<tr>
-<td>Python</td>
-<td>DNA</td>
-<td>2023-08-19</td>
-</tr>
-<tr>
-<td>Python</td>
-<td>Trivia Quiz App</td>
-<td>2022-11-14</td>
-</tr>
-<tr>
-<td>C</td>
-<td>Inheritance</td>
-<td>2023-08-07</td>
-</tr>
-<tr>
-<td>C</td>
-<td>Recover</td>
-<td>2023-08-03</td>
-</tr>
-<tr>
-<td>C</td>
-<td>Filter</td>
-<td>2023-07-04</td>
-</tr>
-<tr>
-<td>C</td>
-<td>Speller</td>
-<td>2023-08-09</td>
-</tr>
-</tbody></table>
+- <b>Full Stack Web Development</b>
+  - <a href='https://github.com/JasperADavis/money-bags-financial-management'>Money Bags</a>
+  - <a href='https://github.com/JasperADavis/jasper-blog-project'>Blog Capstone</a>
+- <b>SQL</b>
+  - <a href='https://github.com/JasperADavis/dvd-rental-db-advanced-sql-project'>DVD Rental Data Exploration</a>
+  - <a href='https://github.com/JasperADavis/fiftyville-SQL-criminal-investigation'>Fiftyville Criminal Investigation with SQL</a>
+- <b>API Interaction & Web Scraping</b>
+  - <a href='https://github.com/JasperADavis/billboard-100-to-Spotify-playlist/tree/main'>Billboard 100 to Spotify Playlist</a>
+  - <a href='https://github.com/JasperADavis/flight-deals-finder'>Flight Deals Finder</a>
+- <b>Data Exploration</b>
+  - <a href='https://github.com/JasperADavis/bikeshare-data-explorer'>Bikeshare Data Analysis</a>
+  - <a href='https://drive.google.com/file/d/1HeSQCWMSrNmeO33q7fMX_aI4Z5cc9r1s/view?usp=sharing'>Manipulating Images As Ndarrays</a>
+  - <a href='https://drive.google.com/file/d/1I2nuecryF-mC1f2LmGgJOooIRhTagAkd/view?usp=sharing'>Nobel Prize Winner Analysis</a>
+  - <a href='https://drive.google.com/file/d/1tQulW0MaJp-SWdPGwP6OgzNr7TXhzH3e/view?usp=sharing'>Multivariable Regression and Valuation Model for Boston Housing</a>
+- <b>Python Apps</b>
+  - <a href='https://github.com/JasperADavis/breathe-more-bubbles-diving-calculator'>Breathe More Bubbles</a>
+  - <a href='https://github.com/JasperADavis/DNA-sequence-matcher'>DNA</a>
+  - <a href='https://github.com/JasperADavis/trivia-quiz-app/'>Trivia Quiz App</a>
+- <b>Simulation</b>
+  - <a href='https://github.com/JasperADavis/world-cup-tournament-simulator'>World Cup Simulator</a>
+  - <a href='https://github.com/JasperADavis/blood-type-inheritance-simulator'>Inheritance</a>
+- <b>C Apps</b>
+  - <a href='https://github.com/JasperADavis/recover-image-recovery-tool'>Recover</a>
+  - <a href='https://github.com/JasperADavis/filter-image-filtering'>Filter</a>
+  - <a href='https://github.com/JasperADavis/speller-text-spell-checker'>Speller</a>
 
 <h4>Additional Information on Projects Available <a href="https://github.com/JasperADavis/tech-portfolio/">Here</a></h4>
 
