@@ -13,20 +13,6 @@
 - 💰 <b>Bachelor of Science Business Administration, Accounting</b> - Western Governors University <br>
 - 💼 <b>Bachelor of Science, Management</b> - The University of Tampa <br>
 
-
-<h2>👨‍💻 Technical Projects:</h2>
-
-- <b>Python</b>
-  - [Project Coming Soon](https://github.com/jasperadavis/)
-- <b>SQL</b>
-  - [Project Coming Soon](https://github.com/jasperadavis/)
-- <b>C</b>
-  - [Project Coming Soon](https://github.com/jasperadavis/)
-- <b>HTML/CSS</b>
-  - [Project Coming Soon](https://github.com/jasperadavis/)
-- <b>BASH</b>
-  - [Project Coming Soon](https://github.com/jasperadavis/)
-
 <h2>🌱 Lifelong Learning: </h2>
 
 <h3>Ongoing:</h3>
@@ -54,6 +40,107 @@
 - Peruvian Hearts | International Alternative Breaks Team Leader <br>
 - PEACE Volunteer Center | Co-President & International Alternative Breaks Coordinator <br>
 - Teen Advisors | New Program Launch Coordinator <br>
+
+<h2>👨‍💻 Highlighted Technical Projects:</h2>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Language</th>
+<th title="Field #2">Project Name</th>
+<th title="Field #3">Date Created</th>
+</tr></thead>
+<tbody><tr>
+<td>Python, SQLite, JavaScript, CSS, HTML</td>
+<td>Money Bags</td>
+<td>2023-09-01</td>
+</tr>
+<tr>
+<td>Python, PostgreSQL, JavaScript, CSS, HTML</td>
+<td>Blog Capstone</td>
+<td>2023-03-06</td>
+</tr>
+<tr>
+<td>SQL</td>
+<td>Fiftyville Criminal Investigation with SQL</td>
+<td>2023-08-21</td>
+</tr>
+<tr>
+<td>SQL</td>
+<td>DVD Rental Data Exploration</td>
+<td>2023-06-19</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>Billboard 100 to Spotify Playlist</td>
+<td>2023-01-13</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>Flight Deals Finder</td>
+<td>2023-01-10</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>World Cup Simulator</td>
+<td>2023-08-19</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>Bikeshare Data Analysis</td>
+<td>2020-06-17</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>Manipulating Images As Ndarrays</td>
+<td>2023-03-20</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>Nobel Prize Winner Analysis</td>
+<td>2023-03-29</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>Multivariable Regression and Valuation Model for Boston Housing</td>
+<td>2023-03-31</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>Breathe More Bubbles</td>
+<td>2023-09-13</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>DNA</td>
+<td>2023-08-19</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>Trivia Quiz App</td>
+<td>2022-11-14</td>
+</tr>
+<tr>
+<td>C</td>
+<td>Inheritance</td>
+<td>2023-08-07</td>
+</tr>
+<tr>
+<td>C</td>
+<td>Recover</td>
+<td>2023-08-03</td>
+</tr>
+<tr>
+<td>C</td>
+<td>Filter</td>
+<td>2023-07-04</td>
+</tr>
+<tr>
+<td>C</td>
+<td>Speller</td>
+<td>2023-08-09</td>
+</tr>
+</tbody></table>
+
+<h4>Additional Information on Projects Available <a href="https://github.com/JasperADavis/tech-portfolio/">Here</a></h4>
 
 <h2>🤳 Connect with me:</h2>
 
