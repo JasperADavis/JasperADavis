@@ -60,7 +60,7 @@
   - <a href='https://github.com/JasperADavis/filter-image-filtering'>Apply Image Filters</a>
   - <a href='https://github.com/JasperADavis/speller-text-spell-checker'>Spell Checker</a>
 
-<h4>Additional Information on Projects Available <a href="https://github.com/JasperADavis/tech-portfolio/">Here</a></h4>
+<strong>Additional Information on Projects: <a href="https://github.com/JasperADavis/tech-portfolio/">Available Here</a><strong>
 
 <h2>⛑️ Service Work: </h2>
 - NCP Disaster Relief Network | Executive Leadership Team & Disaster Response Team Leader (Puerto Rico Response) <br>
