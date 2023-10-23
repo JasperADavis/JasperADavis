@@ -35,7 +35,7 @@
 <h2>🌱 Lifelong Learning: </h2>
 
 <h3>Ongoing:</h3>
-- <a href="https://cs50.harvard.edu/sql/">CS50SQL</a> - Introduction to Databases with SQL - Harvard University | complete: Weeks 0 - 1 <br>
+- <a href="https://cs50.harvard.edu/sql/">CS50SQL</a> - Introduction to Databases with SQL - Harvard University | complete: Weeks 0 - 6 <br>
 - <a href="https://cs50.harvard.edu/cybersecurity/">CS50CY</a> - Introduction to Cybersecurity - Harvard University | complete: Weeks 0 - 1 <br>
 - <a href="https://cs50.harvard.edu/ai/">CS50AI</a> - Introduction to Artificial Intelligence with Python - Harvard University <br>
 - <a href="https://cs50.harvard.edu/web/">CS50W</a> - Web Programming with Python and JavaScript - Harvard University | complete: Weeks 0 - 2 <br>
