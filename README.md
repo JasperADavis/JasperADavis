@@ -5,7 +5,8 @@
 <h2>👨‍💻 Highlighted Technical Projects:</h2>
 
 - <b>Full Stack Web Development</b>
-  - <a href='https://github.com/JasperADavis/money-bags-financial-management'>Money Bags: Financial Management WebApp</a>
+  - <a href='https://github.com/JasperADavis/todo-app'>To-Do'er: To-Do List WebApp (Django)</a>
+  - <a href='https://github.com/JasperADavis/money-bags-financial-management'>Money Bags: Financial Management WebApp (Flask)</a>
   - <a href='https://github.com/JasperADavis/jasper-blog-project'>Blog Capstone Project</a>
 - <b>Databases & SQL</b>
   - <a href='https://github.com/JasperADavis/dvd-rental-db-advanced-sql-project'>DVD Rental Data Exploration</a>
