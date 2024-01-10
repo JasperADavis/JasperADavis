@@ -39,10 +39,10 @@
 - <a href="https://cs50.harvard.edu/cybersecurity/">CS50CY</a> - Introduction to Cybersecurity - Harvard University | complete: Weeks 0 - 1 <br>
 - <a href="https://cs50.harvard.edu/ai/">CS50AI</a> - Introduction to Artificial Intelligence with Python - Harvard University <br>
 - <a href="https://www.coursera.org/learn/generative-ai-for-everyone"> Generative AI for Everyone</a> - DeepLearning.AI <br>
-- <a href="https://cs50.harvard.edu/web/">CS50W</a> - Web Programming with Python and JavaScript - Harvard University | complete: Weeks 0 - 8 <br>
 - <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> - Dr. Angela Yu & London App Brewery via Udemy | complete: Projects 1 - 81 <br>
 
 <h3>Completed:</h3>
+- <a href="https://certificates.cs50.io/830909d3-4f7e-40af-bad5-e9de2eea634a.pdf?size=letter">CS50W</a> - Web Programming with Python and JavaScript - Harvard University (2024) <br>
 - <a href="https://certificates.cs50.io/51d8992b-e9c5-4f17-b5bc-ec6244dc09a9.pdf?size=letter">CS50SQL</a> - Introduction to Databases with SQL - Harvard University (2023) <br>
 - <a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/">ChatGPT Prompt Engineering for Developers</a> - DeepLearning.AI & OpenAI (2023) <br>
 - <a href="https://certificates.cs50.io/35c32c8d-688e-492b-a941-5794519d50b9.pdf?size=letter">CS50x</a> - Introduction to Computer Science - Harvard University (2023) <br>
