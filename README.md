@@ -36,7 +36,7 @@
 <h2>🌱 Lifelong Learning: </h2>
 
 <h3>Ongoing:</h3>
-- <a href="https://cs50.harvard.edu/cybersecurity/">CS50CY</a> - Introduction to Cybersecurity - Harvard University | complete: Weeks 0 - 1 <br>
+- <a href="https://cs50.harvard.edu/cybersecurity/">CS50CY</a> - Introduction to Cybersecurity - Harvard University | complete: Weeks 0 - 4 <br>
 - <a href="https://cs50.harvard.edu/ai/">CS50AI</a> - Introduction to Artificial Intelligence with Python - Harvard University <br>
 - <a href="https://www.coursera.org/learn/generative-ai-for-everyone"> Generative AI for Everyone</a> - DeepLearning.AI <br>
 - <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> - Dr. Angela Yu & London App Brewery via Udemy | complete: Projects 1 - 81 <br>
